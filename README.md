@@ -15,4 +15,4 @@ A simple and responsive User Registration System built using PHP, jQuery, HTML/C
 🎨 Responsive UI using modern HTML and CSS
   
 
-school project from DDU
+school project from Dire Dawa University 
