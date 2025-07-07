@@ -13,3 +13,6 @@ A simple and responsive User Registration System built using PHP, jQuery, HTML/C
 💾 Data stored in MySQL database
 
 🎨 Responsive UI using modern HTML and CSS
+  
+
+school project 
